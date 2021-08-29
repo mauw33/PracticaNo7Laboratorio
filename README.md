@@ -1,6 +1,6 @@
 InformeLaboratorioNo7
 ==========================
-# PRÁCTICA No. 7 CARACTERISTICA DE LA ONDA SENOIDAL
+# PRÁCTICA No. 7 INDUCTOR Y CAPACITOR
 1. OBJETIVOS
 * 1.1 OBJETIVO GENERAL
 
@@ -22,52 +22,64 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 4. MATERIAL Y EQUIPO REQUERIDO
 
-| Cantidad | Elemento | 
-| --------- | --------- | 
-| 1 | Generador de Funciones | 
-| 1 | Osciloscopio | 
-| 1 | Multimetro Digital |
-| 1 | Resistor de 1 kΩ | 
-| 1 | Resistor de 2.2 kΩ |
-| 1 | Protoboard |
+- Generador de señales
+- Fuente DC.
+- Osciloscopio.
+- Protoboard
+- Multímetro
+- Cables conductores
+- Resistencias, bobinas y capacitores.
+
 
 5. PROCEDIMIENTO
 
-### 7.1 Arme el circuito que se presenta en la figura 7.1.
+### 7.1 Construya en el protoboard el circuito mostrado en la Figura 1.
 
  ![Screenshot]()
 
-### 7.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp  a una frecuencia de 2.5 Khz.
+### a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 
-### 7.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+### b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 
-### 7.4 Responda las siguientes preguntas:
-
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? ___________ 
-
-¿En qué valor está posicionada la perilla VOLTS/DIV?  ___________ 
-
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? __________ 
-
-¿En qué valor está posicionada la perilla TIME/DIV?  ___________
+### c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 
-### 7.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio? 
+### 7.2 Construya el circuito mostrado en la Figura 2
 
-Amplitud de voltaje: ____________(V)   Periodo: ____________(s)
+Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
-
-### 7.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
-
-f: _____________(Hz)   ω: ____________(rad/s)
+### a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
 
-### 7.7 Con el multímetro digital mida el voltaje de salida en RL: _______________
+### b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 
-### 7.8 Compare  el  voltaje  medido  en  el  punto  7.5.5.  y  el  obtenido  en  el  punto  7.5.7. ¿Coinciden? _______ ¿Por qué? _______________________________________________
+### c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+
+### 7.3 Análisis de resultados
+
+### Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+
+### 7.8 Preguntas
+
+### ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+
+### ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+
+### ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
+
+
+### circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+
+### ¿Qué son los valores eficaces de voltaje y corriente?
+
 
 
 6. VIDEO
