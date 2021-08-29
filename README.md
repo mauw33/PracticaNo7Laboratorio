@@ -12,15 +12,12 @@ Implementar el conocimiento de superposición tanto teóricamente y prácticamen
   * similar circuitos mediante una herramienta digital 
   * Comparar resultados simulados y calculados 
 
-2. REQUISITOS PREVIOS
 
-Se requiere el análisis analítico del circuito mostrado en la figura 4.1., aplicando el Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la   polaridad del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en la tabla 4.1. y 4.2. según corresponda.
-
-3. INFORMACION GENERAL 
+2. INFORMACION GENERAL 
 
 Los simuladores de circuitos electrónicos son muy útiles para explicar el comportamiento de éstos de una forma asequible a los alumnos de la rama de Eléctrica y Electrónica. El uso de la simulación por ordenador es una herramienta imprescindible hoy en día a la hora de explicar la electrónica en el aula, al ser la forma más sencilla y rápida de comprobar el funcionamiento de un circuito. Además, no necesita ningún tipo de material adicional para el montaje del mismo o medida de los resultados.
 
-4. MATERIAL Y EQUIPO REQUERIDO
+3. MATERIAL Y EQUIPO REQUERIDO
 
 - Generador de señales
 - Fuente DC.
@@ -31,7 +28,7 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 - Resistencias, bobinas y capacitores.
 
 
-5. PROCEDIMIENTO
+4. PROCEDIMIENTO
 
 ### 7.1 Construya en el protoboard el circuito mostrado en la Figura 1.
 
@@ -47,6 +44,8 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 
 ### 7.2 Construya el circuito mostrado en la Figura 2
+
+ ![Screenshot]()
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
@@ -93,19 +92,19 @@ Al colocar dos capacitores o dos bobinas de diferente denominación en elcircuit
 Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, alaplicarla sobre una misma resistencia.En otras palabras, el valor RMS es el valor del voltaje o corriente en CA que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente directa.
 
 
-6. VIDEO
+5. VIDEO
 
 
 
-7. CONCLUSIONES
+6. CONCLUSIONES
 
  - Se pudo comprobar que los valores obtenidos de los voltajes como de las corrientes fueron muy semejantes a los obtenidos mediante verificar el circuito analiticamente, con unos pequeños margenes de error.
 Asi mismo tanto para las tablas obtenidas, se comprobó el uso del teorema de superposición, mediante las ecuaciones encontradas, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar la ley antes mencionadas nos permiten a que los valores sean precisos y casi exactos, apoyandonos del mismo ciruito para usar las fórmulas como la dirección de los voltajes y corrientes.
 
-8. BIBLIOGRAFIA
+7. BIBLIOGRAFIA
 
  Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
  
- Universidad de los Andes. (2015). Capacitancia e Inductancia [online]Available at: http://wwwprof.uniandes.edu.co/~ant sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf [Accessed 2Jul. 2017]
+ Universidad de los Andes. (2015). Capacitancia e Inductancia [online]Available at: http://wwwprof.uniandes.edu.co/~antsala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf[Accessed 2Jul. 2017]
 
 Sadiku, A. Fundamentos de Circuitos Eléctricos, 5ta edición. Capítulo 11, sección 11.4: "Valor eficaz o rms".
