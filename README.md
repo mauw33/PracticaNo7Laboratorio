@@ -68,18 +68,29 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 ### ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Una bobina en corriente continua actúa diferente que un condensador, es decir deja pasar corriente (ya que las bobinas son realmente cables enrollados que soloconducen), sin embargo, no posee voltaje debido a que las bobinas en cc actúan como un corto circuito (se unen los polos positivo y negativo sin tener una carga)
+
+El capacitor se comporta como un circuito abierto para corriente continua y la bobina como un cortocircuito. En un circuito complementado en corriente continua se puede entender un condensador como un interruptor abierto es decir no deja pasar corriente (por lo que no hay presencia de intensidad) sin embargo esta la presencia de voltaje debido a que en el condensador posee una reactancia.
+
 
 ### ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+Bobinas en AC
+ 
+Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, es decir además de poseer corriente esta también tiene la presencia de voltaje, debido al efecto de frecuencia. Las bobinas se pueden utilizar para “Adelantar voltaje y retrasar corriente”, dependiendo de cómo se utiliza paramejorar el factor de potencia.
 
-### ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
+Condensadores en AC
+
+En este caso, sucede todo lo contrario: el condensador deja pasar corriente, y tiene la presencia del voltaje, todo debido al efecto que tiene la corriente alterna en el elemento. Loscondensadores se utilizan para “Adelantar corriente y atrasar voltaje”, dependiendo para mejorar el factor de potencia.
 
 
-### circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+### ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+Al colocar dos capacitores o dos bobinas de diferente denominación en elcircuito, se facilita los cálculos al momento de encontrar el valor de Vo porque podemos reducir el circuito a su mínima expresión usando el concepto defasores, en los cuales a las impedancias y a las inductancias las convertimos aldominio fasorial y se representaría como una caja en el circuito a la cual podemos reducirle por el concepto de serie y paralelo.
 
 ### ¿Qué son los valores eficaces de voltaje y corriente?
 
+Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, alaplicarla sobre una misma resistencia.En otras palabras, el valor RMS es el valor del voltaje o corriente en CA que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente directa.
 
 
 6. VIDEO
@@ -94,3 +105,7 @@ Asi mismo tanto para las tablas obtenidas, se comprobó el uso del teorema de su
 8. BIBLIOGRAFIA
 
  Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
+ 
+ Universidad de los Andes. (2015). Capacitancia e Inductancia [online]Available at: http://wwwprof.uniandes.edu.co/~ant sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf [Accessed 2Jul. 2017]
+
+Sadiku, A. Fundamentos de Circuitos Eléctricos, 5ta edición. Capítulo 11, sección 11.4: "Valor eficaz o rms".
