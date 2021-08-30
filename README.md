@@ -39,8 +39,9 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 ### b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-
 ### c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+
 
 
 ### 7.2 Construya el circuito mostrado en la Figura 2
