@@ -32,38 +32,54 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 ### 7.1 Construya en el protoboard el circuito mostrado en la Figura 1.
 
- ![Screenshot]()
+ ![Screenshot](Laboratorio7/1.png)
 
 ### a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
-
+ ![Screenshot](Laboratorio7/2.png)
+ ![Screenshot](Laboratorio7/3.png)
+ ![Screenshot](Laboratorio7/4.png)
+   
+   
 ### b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ### c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-
+ ![Screenshot](Laboratorio7/5.png)
+ ![Screenshot](Laboratorio7/6.png)
+ ![Screenshot](Laboratorio7/7.png)
 
 
 ### 7.2 Construya el circuito mostrado en la Figura 2
 
- ![Screenshot]()
+ ![Screenshot](Laboratorio7/18.png)
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
 ### a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
-
+ ![Screenshot](Laboratorio7/8.png)
+ ![Screenshot](Laboratorio7/9.png)
+ ![Screenshot](Laboratorio7/10.png)
+   
+   
 ### b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
-
 
 ### c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+ ![Screenshot](Laboratorio7/11.png)
+ ![Screenshot](Laboratorio7/12.png)
+ ![Screenshot](Laboratorio7/13.png)
+ ![Screenshot](Laboratorio7/14.png)
+ ![Screenshot](Laboratorio7/15.png)
 
 ### 7.3 Análisis de resultados
 
 ### Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
-
+ ![Screenshot](Laboratorio7/16.png)
+ ![Screenshot](Laboratorio7/17.png)
+  
 ### 7.8 Preguntas
 
 ### ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
